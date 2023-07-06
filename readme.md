@@ -62,7 +62,7 @@ Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are
 Developer: Asher Sandler. 
 
 - This project was inspired by Evgenia Tchachkin
-- Many thanks to Evgenia Tchachkin
+- Many thanks to [Evgenia Tchachkin](mailto:evgeniat@savion.huji.ac.il)
 
 
 ## Contact
