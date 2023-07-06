@@ -62,7 +62,6 @@ Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are
 Developer: Asher Sandler. 
 
 - This project was inspired by Evgenia Tchachkin
-- This project was based on [this tutorial](https://www.example.com).
 - Many thanks to Evgenia Tchachkin
 
 
@@ -75,4 +74,4 @@ Created by [ashersan](mailto:ashersan@savion.huji.ac.il) - feel free to contact 
 © 2023 Copyright: The Hebrew University in Jerusalem
 <!-- This project is open source and available under the [... License](). -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->"# TSS-Reminder" 
+<!-- You don't have to include all sections - just the one's relevant to your project -->
