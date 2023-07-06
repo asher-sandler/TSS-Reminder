@@ -16,8 +16,8 @@
 
 
 ## General Information
-- This Script Remind Users that they have to fill and submit personal files.
-- Or cancel registration submission system.
+- This Script Remind Users that not filled and/or submitted personal form and files.
+- Or not canceled registration in submission system.
 - Time Lapse from last unsubmitted process is 5 days.
 - Script uses XML ini files situated in 
 - \\ekeksql00\SP_Resources$\WP_Config\SendToRakefet\CRS_asher\ directory
